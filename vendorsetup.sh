@@ -1,0 +1,2 @@
+add_lunch_combo aosip_rolex-userdebug
+add_lunch_combo aosip_rolex-eng
